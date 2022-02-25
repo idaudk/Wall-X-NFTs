@@ -1,5 +1,5 @@
-Flutter UI(NFT App) 
-<br>
+Flutter UI(NFT App) with animations
+<br><br><br>
 Packages used -><br>
  1- get<br>
  2- get_storage<br>
