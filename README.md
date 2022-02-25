@@ -1,9 +1,9 @@
 Flutter UI(NFT App) 
-
-Packages used -> 
- 1- get
- 2- get_storage
- 3- iconsax
- 4- flutter_screenutil
- 5- flutter_svg
+<br>
+Packages used -><br>
+ 1- get<br>
+ 2- get_storage<br>
+ 3- iconsax<br>
+ 4- flutter_screenutil<br>
+ 5- flutter_svg<br>
 
